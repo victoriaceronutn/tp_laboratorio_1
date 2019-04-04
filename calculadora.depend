@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1554413715 source:c:\users\mellis\desktop\utn\calculadora\biblioteca.c
+	<stdio.h>
+
+1554415555 source:c:\users\mellis\desktop\utn\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1554416410 c:\users\mellis\desktop\utn\calculadora\biblioteca.h
+
