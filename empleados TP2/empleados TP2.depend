@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1557538259 source:c:\users\mellis\desktop\empleados tp2\empleados.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleados.h"
+
+1557537438 c:\users\mellis\desktop\empleados tp2\empleados.h
+	"input.h"
+
+1557537762 source:c:\users\mellis\desktop\empleados tp2\input.c
+	<stdio.h>
+	<stdlib.h>
+	"input.h"
+
+1557535941 source:c:\users\mellis\desktop\empleados tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleados.h"
+
+1557538259 c:\users\mellis\desktop\empleados tp2\input.h
+
